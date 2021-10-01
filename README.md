@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and reactjs
 - 💞️ I’m looking to collaborate on linkedIn
-- 📫 How to reach me ...
+- 📫 How to reach me khushikassar@gmail.com
 
 <!---
 Khushiddin/Khushiddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
